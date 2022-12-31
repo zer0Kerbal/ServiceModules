@@ -2,48 +2,42 @@
   
 | modName    | Service Modules (SERV)                                            |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC BY-ND 4.0                                                      |
-| author     | zer0Kerbal, inspired by Ph34rb0t                                  |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/) |
+| license    | CC-NC-ND-4.0                                                      |
+| author     | Ph34rb0t and zer0Kerbal                                           |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/) |
 | github     | (https://github.com/zer0Kerbal/ServiceModules)                    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ServiceModules)       |
-| spacedock  | (https://spacedock.info/mod/3030)                                 |
+| spacedock  | (https://spacedock.info/mod/3037)                                 |
 | ckan       | ServiceModules                                                    |
 
-## Version 0.9.99.0-prerelease `<Scalding Hot Parts are our Business>` edition
+## Version 0.2.0.0-release `<Archival>` edition
 
 * Released
-  * 29 Dec 2022
-  * for Kerbal Space Program 1.12.4
-  * by zer0Kerbal
+  * 09 Oct 2014
+  * for Kerbal Space Program 0.25
+  * by Ph34b0t
 
-### Creation by zer0Kerbal
-
-* Create
-  * Agent
-  * Flags
-  * Hero Logo/Cover
-* closes #7 - Create GitHub Pages
-* closes #8 - Create HeroLogo.png
-* closes #28 - Create Agency
-
-### Localization 0.9.99.0
-
-* Add
-  * <us-en.cfg> v1.0.0.0
-  * Localization/
-    * <readme.md> v2.1.2.0
-    * <quickstart.md>  v1.0.1.1
-* closes #9 - Create Localization directory and contents
-* updates #10 - Localization - Master
-* closes #11 - English <en-us.cfg>
-
-### Status 0.9.99.0
+### Status 0.2.0.0
 
 * Issues
-  * closes #3 - Service Modules (SERV) 0.9.99.0-prerelease `<Scalding Hot Parts are our Business>` edition
-  * closes #4 - 1.1.99.0 Create Legal Mumbo Jumbo
-  * closes #5 - 1.1.99.0 Create Documentation
-  * closes #6 - 1.1.99.0 Create Social Media Presence
+  * closes #7 - Archival Releases
+  * closes #13 - 0.2.0.0-release
+
+---
+
+## Version 0.1.0.0-release `<Archival>` edition
+
+* Released
+  * 22 Jul 2014
+  * for Kerbal Space Program 0.23.5
+  * by Ph34b0t
+
+### Creation by Ph34b0t
+
+### Status 0.1.0.0
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #12 - 0.1.0.0-release
 
 ---
