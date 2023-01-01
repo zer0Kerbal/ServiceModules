@@ -15,7 +15,7 @@ Going to the dark side of [random planet] and worried about running out of snack
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [Ph34rb0t][ph34rb0t]
 
-an original creation by *KerbSimpleCo*
+adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceModules/master/img/HeroLogo_1920x1920.png" alt="ServiceModules Hero" width="50%" height="50%">
 
