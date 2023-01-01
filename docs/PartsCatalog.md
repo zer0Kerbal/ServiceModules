@@ -18,13 +18,14 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds xxx (x) trunk parts
+This add-on adds four (4) trunk (service module) parts each with all the modcons
 
 ---
 
-* SurveyStake
+* 1.25m, 1.875.m 2.5m and 3.75m
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceModules/master/GameData/ServiceModules/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceModules/master/docs/thumbs/serv-250_icon.png" alt="Service Module" width="25%" height="25%" />
 
 ---
 
