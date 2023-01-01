@@ -22,6 +22,71 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3037)                                 |
 | ckan       | ServiceModules                                                    |
 
+## Version 0.9.99.0-prerelease `<Scalding Hot Parts are our Business>` edition
+
+* Released
+  * 31 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+### Adoption by zer0Kerbal
+
+### Archival Releases
+
+* 0.2.0.0-release `<Archival>`
+* 0.1.0.0-release `<Archival>`
+
+<KPS.png> 786kb --> <KPS.dds> 1.33mb
+<SM.dds> 826kb --> <SM.png> 1.33mb
+
+KerbalInventorySystem.cfg v1.0.0.0
+TAC-LS.cfg v1.0.0.0
+
+* Create
+  * Agent
+  * Flags
+  * Hero Logo/Cover
+* closes #7 - Create GitHub Pages
+* closes #8 - Create HeroLogo.png
+* closes #28 - Create Agency
+
+### Localization 0.9.99.0
+
+* Add
+  * <us-en.cfg> v1.0.0.0
+  * Localization/
+    * <readme.md> v2.1.2.0
+    * <quickstart.md>  v1.0.1.1
+* closes #9 - Create Localization directory and contents
+* updates #10 - Localization - Master
+* closes #11 - English <en-us.cfg>
+
+  * closes #33 - Part Tags
+  * closes #32 - Part Localization
+  * closes #15 - English <en-us.cfg>
+  * closes #14 - Localization - Master
+  * closes #11 - Update License
+  * closes #10 - Create <ServiceModules.cfg>
+  * closes #9 - Part Asset Updates
+  * closes #8 - Create Localization directory and contents
+  * closes #6 - Create HeroLogo.png
+  * closes #5 - Create GitHub Pages
+* closes #7 - Archival Releases
+* closes #13 - 0.2.0.0-release
+* closes #12 - 0.1.0.0-release
+
+
+
+### Status 0.9.99.0
+
+* Issues
+  * closes #1 - Service Modules (SERV) 0.9.99.0-adoption `<Thank you Ph34b0t>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+
+---
+
 ## Version 0.2.0.0-release `<Archival>` edition
 
 * Released
