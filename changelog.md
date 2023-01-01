@@ -17,6 +17,9 @@
   * for Kerbal Space Program 0.25
   * by Ph34b0t
 
+* no changelog
+* last release by original author
+
 ### Status 0.2.0.0
 
 * Issues
