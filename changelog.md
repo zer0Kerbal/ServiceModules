@@ -24,6 +24,8 @@
 * 0.2.0.0-release `<Archival>`
 * 0.1.0.0-release `<Archival>`
 
+<KPS.png> 786kb --> <KPS.dds> 1.33mb
+<SM.dds> 826kb --> <SM.png> 1.33mb
 
 KerbalInventorySystem.cfg v1.0.0.0
 TAC-LS.cfg v1.0.0.0
