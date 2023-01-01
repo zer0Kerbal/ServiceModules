@@ -25,6 +25,9 @@
 * 0.1.0.0-release `<Archival>`
 
 
+KerbalInventorySystem.cfg v1.0.0.0
+TAC-LS.cfg v1.0.0.0
+
 * Create
   * Agent
   * Flags
