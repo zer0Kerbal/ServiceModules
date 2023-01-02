@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.9
+<!-- readme.md v1.7.0.0
 Service Modules (SERV)
 created: 17 Jul 2017
-updated: 04 Oct 2022 -->
+updated: 01 Jan 2023 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -84,8 +84,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Contracts for these glorious parts
 > * Variant Textures
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
-> * Translations: See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ### Localization
 
@@ -138,9 +138,9 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Kerturn (KAT)][KAT]
 * [Sensor Modules (SENS)][SENS]
 * [Service Modules (SERV)][SERV]
-* Either
-  * [Module Manager /L][mml] [^3]
-  * [Module Manager][mm] [^3]
+* Either [^3]
+  * [Module Manager /L][mml]
+  * [Module Manager][mm]
 
 ### Tags
 
@@ -160,7 +160,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Download: [CurseForge][CURSFG:url] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] [![License][LIC:log]][LIC:url]
@@ -171,7 +171,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ##### see [Notices][MOD:notic] for more *legal mumbo jumbo*
 
-#### Original (0) - Author: [Ph34rb0t][ph34rb0t]
+#### Author (0) - Author: [Ph34rb0t][ph34rb0t]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
@@ -226,7 +226,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [GITHUB:url]: https://github.com/zer0Kerbal/ServiceModules/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/3030 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/3037 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
@@ -247,12 +247,12 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 
 [HBI]: https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/ "Hot Beverage Inc (HBI)"
-[FUEL]: https://github.com/zer0Kerbal/HBFuelCells "HBFuelCells (FUEL)"
 [HBEx]: https://github.com/zer0Kerbal/IrradiatedParts "Irradiated Parts (HBEx)"
 [KAT]: https://github.com/zer0Kerbal/Kerturn "Kerturn (KAT)"
 [RTG]: https://github.com/zer0Kerbal/HBRTG "Radioisotope Thermoelectric Generators (RTG)"
-[SENS]: https://github.com/zer0Kerbal/HBSensorModules "Sensor Modules (SENS)"
-[SERV]: https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/ "Service Modules (SERV)"
+[FUEL]: https://forum.kerbalspaceprogram.com/index.php?/topic/211277-*/ "HBFuelCells (FUEL)"
+[SENS]: https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/ "Sensor Modules (SENS)"
+[SERV]: https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/ "Sensor Modules (SENS)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
