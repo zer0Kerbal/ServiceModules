@@ -155,7 +155,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 0.9.99.0
 
 * Issues
-  * closes #1 - Service Modules (SERV) 0.9.99.0-adoption `<Thank you Ph34b0t>` edition
+  * closes #1 - Service Modules (SERV) 0.9.99.0-adoption `<Thank you Ph34rb0t>` edition
   * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 1.1.99.0 Create Documentation
   * closes #4 - 1.1.99.0 Create Social Media Presence
@@ -168,7 +168,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Released
   * 09 Oct 2014
   * for Kerbal Space Program 0.25
-  * by Ph34b0t
+  * by Ph34rb0t
 
 * Added
   * SAS module
@@ -176,7 +176,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Changes by zer0Kerbal
   * split out unique resources into <Kerturn.cfg>
   * replace with LFO
-* last release by Ph34b0t
+* last release by Ph34rb0t
 
 ### Status 0.2.0.0
 
@@ -191,9 +191,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Released
   * 22 Jul 2014
   * for Kerbal Space Program 0.23.5
-  * by Ph34b0t
+  * by Ph34rb0t
 
-### Creation by Ph34b0t
+### Creation by Ph34rb0t
 
 ### Status 0.1.0.0
 
