@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3037)                                 |
 | ckan       | ServiceModules                                                    |
 
-## Version 0.9.99.0-prerelease `<Scalding Hot Parts are our Business>` edition
+## Version 0.9.99.0-prerelease `<Thank you Ph34rb0t>` edition
 
 * Released
   * 31 Dec 2022
